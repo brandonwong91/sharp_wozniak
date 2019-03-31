@@ -11,6 +11,8 @@ Symptoms experienced by women before the occurence of a period tend to recur in 
 
 AI :
 
+Initial tried with K Means clustering and found out at that 2 clusters are prominent. Later adopted symptoms to be output and input to be cycle from period, periodd days and last period as input
+
 Integration :
 Technical challenge faced when trying to port the trained model onto the android mobile platform, attempted with chaquopy.
 
